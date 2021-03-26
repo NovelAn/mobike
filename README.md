@@ -1,6 +1,13 @@
 # 关于摩拜单车的探索性分析
 
+- 项目报告分享：[CSDN](https://blog.csdn.net/novelan/article/details/115228865)
+
+- 项目源码：[Github](https://github.com/NovelAn/mobike)
+
+
+
 ## 数据概述
+
 随着共享经济的发展，共享单车应运而生，“行”作为四大民生需求（衣食住行）的一部分，探索其在新形态经济下的发展态势以及存在的问题尤为重要。本次数据集共包含102361条摩拜单车订单记录，包含的变量有：
 - orderid（订单编号）
 - bikeid（车辆编号）
